@@ -1,0 +1,16 @@
+Impact Analytics has requested on-campus interviews for a Jr/Sr. Scientist position. They are interested in Masters in Business Analytics, Masters in Computer Science / Computer Engineering, Masters in Statistics and Masters in Management Information Systems students. It is also listed in HuskyCareerLink.
+Job Description
+Junior / Senior Data Scientist will help us discover the information hidden in vast amounts of data, and help us make smarter decisions to deliver even better products. Primary focus will be in applying data mining techniques, doing statistical analysis, and building high-quality prediction systems integrated with our products.
+Responsibilities:
+- Understand and translate statistics and analytics to address client business problems.
+ - Ability to communicate well with fair business understanding.
+- Client presentable 
+- On-site travel.
+- Structure business problems and design solutions to meet client needs.
+- Develop sophisticated analytical frameworks that add value to the client and result in new projects and revenue streams.
+- Develop and implement analytical methodologies, processes, and technological solutions that integrate diverse information solutions and generate analytical insights.
+- Hands on experience in relevant tools like SQL, NoSQL, Hadoop, R, SAS, Perl, PHP, Python, Tableau, VBA, Alteryx etc.
+Behavioral Traits: Strong Analytical, Problem-solving and communication skills.
+Skills and Qualifications: Hands on experience across R, SQL, Python.
+Location: LA, NY, and Boston
+**Resumes can be submitted through HCL through 9/11 and the OCI date is 9/25**

@@ -1,0 +1,18 @@
+Phishing is the attempt to obtain sensitive information such as usernames, passwords, social security numbers, and financial information, often for malicious reasons. By leveraging public information, such as email addresses from the University Phonebook, these message can appear legitimate.
+The University’s spam mail filters remove many of these messages before they enter inboxes, and any that pass are addressed with internal IT security processes as soon as they are identified. Although these processes reduce the threat to our community, they cannot eradicate phishing. The best way to avoid being a victim to a phishing scam is to not fall for it. Below is what you can do to protect yourself and your information.
+Step 1: Identify the message as a phishing scam. Some red flags include:
+• Urgent requests. Phishing attacks attempt to induce panic in the receiver and cause the person to act before investigating the authenticity of the request.
+• Bad spelling or grammar. Phishing messages are notorious for containing misspelled words or poor grammar.
+• Unexpected requests regarding personal information. Be extremely wary of following links or answering questions from contacts you did not initiate. Emails regarding password resets, account expirations, or confirmations will always be initiated on the part of the user first. UITS and other University organizations will not send unsolicited requests for UConn credentials or other personal information.
+Step 2: Check out links and attachments before you click. 
+• Links can direct you to spoofed web pages or download harmful files on your system. You can hover the cursor over the link before you click on it to ensure that the address matches the link that was typed. You can always check the legitimacy of a message by going directly to the company or organization website or contacting them via phone.
+• Hover over an attachment to verify that the title matches the file type.  A document that looks like it has a name “something.pdf” might actually be a file “something.exe.”  An .exe extension means the attachment is actually a software program that you execute and is extremely dangerous; it can cause computer infection and data loss.
+Step 3: Report and delete
+If you suspect that the email is a phishing message, forward it to reportphishing@uconn.edu. Then delete the message from your inbox.
+What to do if you click on the links in a phishing message
+• Change your NetID password immediately.
+• Contact the UITS Help Center at 860.486.4357, helpcenter@uconn.edu, or via the online chat at helpcenter.uconn.edu.
+For more information, contact: UITS Help Center at helpcenter@uconn.edu
+
+ 
+This is an automatically generated notification from Blackboard. You can change your notification settings at any time by going to Settings, Edit Notification Settings. Please do not reply.

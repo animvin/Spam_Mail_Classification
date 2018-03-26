@@ -1,0 +1,4 @@
+We have learned spreadsheet engineering on designing and building spreadsheets. It provides a systematic way to develop high-quality spreadsheet models both efficiently and effectively.
+The first homework assignment has been posted. It is due next Wed midnight. Again, please keep in mind this is individual work. You can only talk to me or TA (lulu.zhang@uconn.edu) about the homework if you have any questions. You are NOT allowed to take other’s work with or without modification, nor share your work to allow such conducts.
+Please make sure you have ASP installed before the next class.
+Let me know if you have any questions. Have a nice week!

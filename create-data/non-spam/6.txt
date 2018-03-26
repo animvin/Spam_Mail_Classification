@@ -1,0 +1,13 @@
+Your work was received!
+
+You successfully submitted your coursework. Each time you submit coursework, you receive a unique confirmation ID to verify when your submission was received. You can view your submission receipts on your My Grades page.
+
+Submission details:
+Submission confirmation ID: 253a76b61d544a8c98a9749ffd2ae4ae
+Title of course: OPIM-5641-Business Decision Modeling-SECB13-1178
+Course ID: 1178-UCONN-OPIM-5641-SECB13-13422
+Title of coursework: Project III: Model development
+Date/time of submission: Nov 15, 2017 6:27 PM
+Size of written submission: 0bytes
+Size and name of files received: OPIM 5641_Project_Spreadsheet Model_Team 2.xlsx (29.2kb) 
+Unique Item ID (for administrator use only): _249554_1

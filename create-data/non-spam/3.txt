@@ -1,0 +1,5 @@
+We worked on the drug development problem in a group exercise to reinforce the skills in risk analysis and expand the exposure to different probability distribution models. The problem represents an important application of risk analysis to R&D project management in pharmaceutical industries. The reference solution file for the problem has been posted on HuskyCT. Let me know if you have any questions.
+HW5 and the fourth project submission (analysis to generate insights) are due on Wed after the break. (Again I’d highly recommend you to get HW5 done before the break if possible when your memory of the material is still fresh.)
+We’ll focus on the project after the break. In the first class you can ask questions, discuss, and work to further enhance the project and prepare for the presentation. The second class will be given to project presentation and course wrap-up.
+Have a great Thanksgiving!
+

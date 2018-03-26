@@ -1,0 +1,8 @@
+We learned how to analyze simulation results and perform simulation sensitivity analysis using the Butson Store example, and worked on the Health Claims problem for further practice. We will work on a group exercise problem in the next class to reinforce the skills.   
+The complete excel files for the Butson Store example and Health Claims problem have been posted. Please review the files and the lecture notes and let me known if you have any questions.
+The 5th homework is also posted to allow you start early. If you can, I’d highly suggest you to finish it before the Thanksgiving break, though it is not due until after the break. The longer you wait, the more time it will take you. 
+The third project submission (base case spreadsheet model) is due next Wed.   
+Keep warm, and have a great week!  
+
+
+

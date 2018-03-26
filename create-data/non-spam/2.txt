@@ -1,0 +1,14 @@
+Travelers Statistical Modeling Case Competition Participants: 
+
+Thank you to all of you that participated in this competition, and presented your work!  Travelers is pleased to announce Team Walkers and TBD as the winners for UCONN Hartford Campus.  Attached are their codes.  Winning teams from each campus have been invited to present their work at the Travelers Hartford office in late January, following which a 1st place Overall Competition winner will be selected.  
+
+Thank you again for participating in the competition!  We hope to see you again next Fall, for our 3rd annual modeling competition. 
+
+PS: Due to Intellectual Property, the owner of the whole dataset doesn’t allow us to share the label of test dataset. We are really sorry about that, hope you can understand.
+
+Thanks!
+
+Xuewei Feng | Consultant, AALDP program| Business Insurance R&D
+One Tower Square | MN10 Cube 488
+Hartford, CT 06183
+W: 860.954.6682
